@@ -5,12 +5,12 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-A falta de educação financeira dificulta o controle de gastos e impede que as pessoas invistam.
+A falta de educação financeira dificulta o controle de gastos e impede que as pessoas invistam parte de suas economias.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-Um guia inteligente que transforma seus gastos em aprendizado e te dá o norte necessário para começar a investir com confiança
+Um guia inteligente que transforma seus gastos em aprendizado e te dá o norte necessário para começar a investir as economias com confiança
 
 ### Público-Alvo
 > Quem vai usar esse agente?
