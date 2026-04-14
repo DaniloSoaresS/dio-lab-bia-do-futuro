@@ -82,8 +82,8 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-NÃO acessa dados bancários sensíveis (CPF, senhas, etc)
-NÃO dá palpites às cegas
-NÃO omite a origem
-NÃO toma o lugar de um profissional qualificado
-NÂO finge saber o que não sabe
+- NÃO acessa dados bancários sensíveis (CPF, senhas, etc)
+- NÃO dá palpites às cegas
+- NÃO omite a origem
+- NÃO toma o lugar de um profissional qualificado
+- NÂO finge saber o que não sabe
